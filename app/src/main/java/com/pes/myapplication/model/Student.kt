@@ -22,7 +22,7 @@ data class Student(
 /** Pre-populated sample student for the app */
 val sampleStudent = Student(
     name = "Nithin Kumar M",
-    studentId = "STU-2024-1847",
+    studentId = "PES1UG25CS829",
     major = "Computer Science",
     gpa = 3.82,
     completedCredits = 84,
